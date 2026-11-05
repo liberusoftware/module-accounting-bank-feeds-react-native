@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-bank-feeds-react-native",
+  "capabilityKey": "liberusoftware/module-accounting-bank-feeds",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-accounting-bank-feeds-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/accounting/nextjs/bank-feeds.md",
+  "presentationPlan": "projects/accounting/react-native/bank-feeds.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
